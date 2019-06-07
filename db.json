@@ -84,6 +84,17 @@
  "comments": [ {"id": 1,
                 "episode": "Hunter to Huntee",
                 "name": "Toby",
-                "comment": "This episode was life changing. Jodie is such an inspirational person!"}
+                "comment": "This episode was life changing. Jodie is such an inspirational person!"},
+              
+              {"id": 2,
+                "episode": "A Decent Proposal",
+                "name": "Erin",
+                "comment": "I personally thought William's proposal was a little much, but happy for them!"},
+              
+              {"id": 3,
+                "episode": "Hose Before Bros",
+                "name": "Lily",
+                "comment": "The Fab 5 hitting on the firemen is literally me. Love these guys!"}
+              
  ]
 }
